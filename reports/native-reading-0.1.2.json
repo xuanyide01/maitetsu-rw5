@@ -1,0 +1,530 @@
+{
+  "passed": true,
+  "version": "0.1.2",
+  "sha256": "b0f4f681fcb3e9ca75f6aa334bd72e41993d7ab82f59e06ce92dbb750fca9f4c",
+  "paragraphs": 105,
+  "ending": false,
+  "physicalDeviceTested": false,
+  "latency": [
+    {
+      "chapter": 1,
+      "cursor": 0,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 1,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 2,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 1,
+      "cursor": 3,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 1,
+      "cursor": 4,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 1,
+      "cursor": 5,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 6,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 1,
+      "cursor": 7,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 8,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 9,
+      "milliseconds": 265
+    },
+    {
+      "chapter": 1,
+      "cursor": 10,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 1,
+      "cursor": 11,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 12,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 1,
+      "cursor": 13,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 14,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 1,
+      "cursor": 15,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 1,
+      "cursor": 16,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 17,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 1,
+      "cursor": 18,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 19,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 20,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 1,
+      "cursor": 21,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 22,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 23,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 24,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 25,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 26,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 27,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 28,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 29,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 30,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 31,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 32,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 1,
+      "cursor": 33,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 1,
+      "cursor": 34,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 1,
+      "cursor": 35,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 1,
+      "cursor": 36,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 37,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 1,
+      "cursor": 38,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 39,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 1,
+      "cursor": 40,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 41,
+      "milliseconds": 145
+    },
+    {
+      "chapter": 1,
+      "cursor": 42,
+      "milliseconds": 199
+    },
+    {
+      "chapter": 1,
+      "cursor": 43,
+      "milliseconds": 203
+    },
+    {
+      "chapter": 1,
+      "cursor": 44,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 45,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 46,
+      "milliseconds": 145
+    },
+    {
+      "chapter": 1,
+      "cursor": 47,
+      "milliseconds": 231
+    },
+    {
+      "chapter": 1,
+      "cursor": 48,
+      "milliseconds": 127
+    },
+    {
+      "chapter": 1,
+      "cursor": 49,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 50,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 51,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 52,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 53,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 54,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 55,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 56,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 1,
+      "cursor": 57,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 58,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 59,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 60,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 61,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 62,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 1,
+      "cursor": 63,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 64,
+      "milliseconds": 201
+    },
+    {
+      "chapter": 1,
+      "cursor": 65,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 66,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 67,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 68,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 1,
+      "cursor": 69,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 70,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 71,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 72,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 73,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 1,
+      "cursor": 74,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 75,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 1,
+      "cursor": 76,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 77,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 78,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 79,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 80,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 1,
+      "cursor": 81,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 82,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 83,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 84,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 1,
+      "cursor": 85,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 86,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 1,
+      "cursor": 87,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 88,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 1,
+      "cursor": 89,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 1,
+      "cursor": 90,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 91,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 92,
+      "milliseconds": 122
+    },
+    {
+      "chapter": 1,
+      "cursor": 93,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 94,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 95,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 1,
+      "cursor": 96,
+      "milliseconds": 132
+    },
+    {
+      "chapter": 1,
+      "cursor": 97,
+      "milliseconds": 168
+    },
+    {
+      "chapter": 1,
+      "cursor": 98,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 99,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 100,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 1,
+      "cursor": 101,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 102,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 103,
+      "milliseconds": 138
+    }
+  ]
+}

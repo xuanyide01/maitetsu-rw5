@@ -1,0 +1,7695 @@
+{
+  "passed": true,
+  "version": "0.1.3",
+  "sha256": "adebc32aa4b5fc9961397520b87fec960aa6772d56def6728f948bd9f2f2f468",
+  "paragraphs": 1537,
+  "ending": true,
+  "physicalDeviceTested": false,
+  "latency": [
+    {
+      "chapter": 1,
+      "cursor": 0,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 1,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 1,
+      "cursor": 2,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 3,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 4,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 5,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 6,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 7,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 8,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 9,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 10,
+      "milliseconds": 233
+    },
+    {
+      "chapter": 1,
+      "cursor": 11,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 12,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 13,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 14,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 15,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 16,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 17,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 18,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 19,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 20,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 21,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 22,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 23,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 24,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 25,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 26,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 27,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 28,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 29,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 30,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 31,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 32,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 1,
+      "cursor": 33,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 34,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 35,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 36,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 37,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 38,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 39,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 40,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 41,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 42,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 43,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 44,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 45,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 46,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 47,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 48,
+      "milliseconds": 133
+    },
+    {
+      "chapter": 1,
+      "cursor": 49,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 50,
+      "milliseconds": 146
+    },
+    {
+      "chapter": 1,
+      "cursor": 51,
+      "milliseconds": 131
+    },
+    {
+      "chapter": 1,
+      "cursor": 52,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 53,
+      "milliseconds": 135
+    },
+    {
+      "chapter": 1,
+      "cursor": 54,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 55,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 56,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 57,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 58,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 59,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 60,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 61,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 62,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 63,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 64,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 65,
+      "milliseconds": 122
+    },
+    {
+      "chapter": 1,
+      "cursor": 66,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 67,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 68,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 69,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 70,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 71,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 72,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 73,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 74,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 75,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 76,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 1,
+      "cursor": 77,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 78,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 79,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 80,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 81,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 82,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 83,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 84,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 85,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 86,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 87,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 88,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 89,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 90,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 91,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 92,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 93,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 94,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 95,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 96,
+      "milliseconds": 131
+    },
+    {
+      "chapter": 1,
+      "cursor": 97,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 98,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 99,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 100,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 101,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 102,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 103,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 104,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 105,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 106,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 107,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 108,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 1,
+      "cursor": 109,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 110,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 111,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 112,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 113,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 114,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 115,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 116,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 117,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 118,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 119,
+      "milliseconds": 201
+    },
+    {
+      "chapter": 1,
+      "cursor": 120,
+      "milliseconds": 231
+    },
+    {
+      "chapter": 1,
+      "cursor": 121,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 122,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 123,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 124,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 125,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 126,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 127,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 128,
+      "milliseconds": 167
+    },
+    {
+      "chapter": 1,
+      "cursor": 129,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 130,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 131,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 1,
+      "cursor": 132,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 133,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 134,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 135,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 136,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 137,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 138,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 139,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 140,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 141,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 142,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 143,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 144,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 145,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 146,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 147,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 148,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 149,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 150,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 151,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 152,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 153,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 154,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 155,
+      "milliseconds": 155
+    },
+    {
+      "chapter": 1,
+      "cursor": 156,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 157,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 158,
+      "milliseconds": 229
+    },
+    {
+      "chapter": 1,
+      "cursor": 159,
+      "milliseconds": 152
+    },
+    {
+      "chapter": 1,
+      "cursor": 160,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 161,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 162,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 163,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 164,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 165,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 166,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 167,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 168,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 169,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 170,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 171,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 172,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 173,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 174,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 175,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 176,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 1,
+      "cursor": 177,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 178,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 179,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 180,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 181,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 182,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 183,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 184,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 185,
+      "milliseconds": 230
+    },
+    {
+      "chapter": 1,
+      "cursor": 186,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 1,
+      "cursor": 187,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 188,
+      "milliseconds": 126
+    },
+    {
+      "chapter": 1,
+      "cursor": 189,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 190,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 191,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 192,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 193,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 194,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 195,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 196,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 197,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 198,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 199,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 200,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 201,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 202,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 203,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 204,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 205,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 206,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 207,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 208,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 209,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 210,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 211,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 212,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 213,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 214,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 215,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 216,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 217,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 218,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 219,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 220,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 221,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 222,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 223,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 224,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 225,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 226,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 1,
+      "cursor": 227,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 228,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 229,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 1,
+      "cursor": 230,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 1,
+      "cursor": 231,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 232,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 233,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 234,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 235,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 236,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 237,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 238,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 239,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 240,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 241,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 242,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 243,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 244,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 245,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 246,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 247,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 248,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 249,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 250,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 251,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 252,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 253,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 254,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 255,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 256,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 257,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 258,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 259,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 260,
+      "milliseconds": 127
+    },
+    {
+      "chapter": 1,
+      "cursor": 261,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 262,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 263,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 264,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 265,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 266,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 1,
+      "cursor": 267,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 268,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 269,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 270,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 271,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 272,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 273,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 274,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 275,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 276,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 277,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 278,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 279,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 280,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 281,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 282,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 283,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 284,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 285,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 286,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 287,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 288,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 289,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 290,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 291,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 292,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 293,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 294,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 295,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 296,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 297,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 298,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 299,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 1,
+      "cursor": 300,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 301,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 302,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 303,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 1,
+      "cursor": 304,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 305,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 1,
+      "cursor": 306,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 307,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 308,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 309,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 1,
+      "cursor": 310,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 311,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 1,
+      "cursor": 312,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 1,
+      "cursor": 313,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 314,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 315,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 316,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 317,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 318,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 319,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 320,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 321,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 1,
+      "cursor": 322,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 323,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 324,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 325,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 326,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 327,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 328,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 329,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 330,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 331,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 332,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 333,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 334,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 335,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 336,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 337,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 1,
+      "cursor": 338,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 339,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 340,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 341,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 342,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 343,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 344,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 345,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 346,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 347,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 348,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 349,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 1,
+      "cursor": 350,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 1,
+      "cursor": 351,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 1,
+      "cursor": 352,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 1,
+      "cursor": 353,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 0,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 1,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 2,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 3,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 4,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 5,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 6,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 2,
+      "cursor": 7,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 8,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 9,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 10,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 11,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 12,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 13,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 14,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 15,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 16,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 17,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 18,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 19,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 20,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 21,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 22,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 2,
+      "cursor": 23,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 24,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 25,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 26,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 27,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 28,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 29,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 30,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 31,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 32,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 33,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 34,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 35,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 36,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 37,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 38,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 39,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 40,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 41,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 42,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 43,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 44,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 45,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 46,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 47,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 48,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 49,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 50,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 51,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 52,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 53,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 2,
+      "cursor": 54,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 2,
+      "cursor": 55,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 56,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 57,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 58,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 59,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 60,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 61,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 2,
+      "cursor": 62,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 2,
+      "cursor": 63,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 64,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 2,
+      "cursor": 65,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 66,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 67,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 68,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 69,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 70,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 71,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 2,
+      "cursor": 72,
+      "milliseconds": 145
+    },
+    {
+      "chapter": 2,
+      "cursor": 73,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 2,
+      "cursor": 74,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 75,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 76,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 77,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 78,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 79,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 80,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 81,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 82,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 2,
+      "cursor": 83,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 84,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 85,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 2,
+      "cursor": 86,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 87,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 88,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 89,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 90,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 91,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 92,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 93,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 94,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 95,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 96,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 97,
+      "milliseconds": 204
+    },
+    {
+      "chapter": 2,
+      "cursor": 98,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 99,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 100,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 101,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 102,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 103,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 104,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 105,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 106,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 107,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 108,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 109,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 110,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 111,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 112,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 113,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 114,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 115,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 116,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 117,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 118,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 119,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 120,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 121,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 122,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 123,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 124,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 125,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 126,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 127,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 128,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 129,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 2,
+      "cursor": 130,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 2,
+      "cursor": 131,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 132,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 133,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 134,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 135,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 136,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 137,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 138,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 139,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 140,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 2,
+      "cursor": 141,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 142,
+      "milliseconds": 200
+    },
+    {
+      "chapter": 2,
+      "cursor": 143,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 144,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 145,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 146,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 147,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 148,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 149,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 150,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 151,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 2,
+      "cursor": 152,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 153,
+      "milliseconds": 201
+    },
+    {
+      "chapter": 2,
+      "cursor": 154,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 155,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 156,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 157,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 158,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 159,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 160,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 161,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 162,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 163,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 164,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 165,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 166,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 167,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 168,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 169,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 170,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 171,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 172,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 173,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 174,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 2,
+      "cursor": 175,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 176,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 177,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 178,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 179,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 180,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 181,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 182,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 183,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 184,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 185,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 186,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 187,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 188,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 189,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 190,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 191,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 192,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 193,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 194,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 195,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 196,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 197,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 198,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 199,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 200,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 201,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 202,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 203,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 204,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 205,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 206,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 207,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 208,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 209,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 210,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 211,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 212,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 213,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 214,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 215,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 216,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 217,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 218,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 219,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 220,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 221,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 222,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 223,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 224,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 225,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 226,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 227,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 228,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 229,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 230,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 231,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 232,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 2,
+      "cursor": 233,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 234,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 235,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 236,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 237,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 238,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 239,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 2,
+      "cursor": 240,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 241,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 242,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 243,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 244,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 245,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 2,
+      "cursor": 246,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 247,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 248,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 249,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 250,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 251,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 252,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 253,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 254,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 255,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 256,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 257,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 258,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 259,
+      "milliseconds": 167
+    },
+    {
+      "chapter": 2,
+      "cursor": 260,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 261,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 262,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 263,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 264,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 265,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 266,
+      "milliseconds": 201
+    },
+    {
+      "chapter": 2,
+      "cursor": 267,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 268,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 269,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 270,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 2,
+      "cursor": 271,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 272,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 2,
+      "cursor": 273,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 2,
+      "cursor": 274,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 275,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 276,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 277,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 278,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 279,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 280,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 281,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 282,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 283,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 284,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 285,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 286,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 287,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 2,
+      "cursor": 288,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 289,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 2,
+      "cursor": 290,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 291,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 2,
+      "cursor": 292,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 293,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 294,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 295,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 296,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 297,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 298,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 299,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 300,
+      "milliseconds": 200
+    },
+    {
+      "chapter": 2,
+      "cursor": 301,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 302,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 303,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 2,
+      "cursor": 304,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 2,
+      "cursor": 305,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 306,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 307,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 308,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 309,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 2,
+      "cursor": 310,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 2,
+      "cursor": 311,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 312,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 313,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 314,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 315,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 2,
+      "cursor": 316,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 317,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 318,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 319,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 320,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 2,
+      "cursor": 321,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 322,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 323,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 324,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 325,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 326,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 327,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 328,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 329,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 330,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 331,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 332,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 333,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 334,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 335,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 336,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 337,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 338,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 339,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 340,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 2,
+      "cursor": 341,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 2,
+      "cursor": 342,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 2,
+      "cursor": 343,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 2,
+      "cursor": 344,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 3,
+      "cursor": 0,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 1,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 2,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 3,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 4,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 5,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 6,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 7,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 8,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 9,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 10,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 11,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 12,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 13,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 14,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 15,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 16,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 17,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 3,
+      "cursor": 18,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 19,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 20,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 21,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 22,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 23,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 24,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 25,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 26,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 27,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 28,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 29,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 30,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 31,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 32,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 33,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 34,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 35,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 36,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 37,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 38,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 39,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 40,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 41,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 42,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 43,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 3,
+      "cursor": 44,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 45,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 46,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 47,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 48,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 49,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 50,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 51,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 52,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 53,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 54,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 55,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 56,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 57,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 58,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 59,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 60,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 61,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 62,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 63,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 64,
+      "milliseconds": 198
+    },
+    {
+      "chapter": 3,
+      "cursor": 65,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 66,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 67,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 68,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 69,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 70,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 71,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 72,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 73,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 74,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 75,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 76,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 77,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 78,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 79,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 80,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 81,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 82,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 3,
+      "cursor": 83,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 84,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 85,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 3,
+      "cursor": 86,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 3,
+      "cursor": 87,
+      "milliseconds": 122
+    },
+    {
+      "chapter": 3,
+      "cursor": 88,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 89,
+      "milliseconds": 217
+    },
+    {
+      "chapter": 3,
+      "cursor": 90,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 91,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 92,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 93,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 94,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 95,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 3,
+      "cursor": 96,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 97,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 98,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 99,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 100,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 3,
+      "cursor": 101,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 102,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 103,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 104,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 105,
+      "milliseconds": 203
+    },
+    {
+      "chapter": 3,
+      "cursor": 106,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 3,
+      "cursor": 107,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 3,
+      "cursor": 108,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 109,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 110,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 111,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 112,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 113,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 3,
+      "cursor": 114,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 115,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 116,
+      "milliseconds": 144
+    },
+    {
+      "chapter": 3,
+      "cursor": 117,
+      "milliseconds": 135
+    },
+    {
+      "chapter": 3,
+      "cursor": 118,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 119,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 120,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 121,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 3,
+      "cursor": 122,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 3,
+      "cursor": 123,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 124,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 125,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 126,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 127,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 128,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 129,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 130,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 131,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 132,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 133,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 134,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 135,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 136,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 137,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 138,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 139,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 140,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 141,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 142,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 3,
+      "cursor": 143,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 144,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 145,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 146,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 147,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 148,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 149,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 150,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 151,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 152,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 153,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 154,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 155,
+      "milliseconds": 134
+    },
+    {
+      "chapter": 3,
+      "cursor": 156,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 157,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 158,
+      "milliseconds": 201
+    },
+    {
+      "chapter": 3,
+      "cursor": 159,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 160,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 161,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 162,
+      "milliseconds": 173
+    },
+    {
+      "chapter": 3,
+      "cursor": 163,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 3,
+      "cursor": 164,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 165,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 166,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 167,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 168,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 169,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 170,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 171,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 3,
+      "cursor": 172,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 173,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 174,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 175,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 176,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 3,
+      "cursor": 177,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 178,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 3,
+      "cursor": 179,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 180,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 181,
+      "milliseconds": 173
+    },
+    {
+      "chapter": 3,
+      "cursor": 182,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 183,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 184,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 185,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 186,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 187,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 188,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 189,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 190,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 191,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 192,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 193,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 194,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 195,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 196,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 197,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 198,
+      "milliseconds": 124
+    },
+    {
+      "chapter": 3,
+      "cursor": 199,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 200,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 201,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 202,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 203,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 3,
+      "cursor": 204,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 205,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 206,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 207,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 208,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 209,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 210,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 211,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 212,
+      "milliseconds": 122
+    },
+    {
+      "chapter": 3,
+      "cursor": 213,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 214,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 215,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 216,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 217,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 3,
+      "cursor": 218,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 219,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 220,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 221,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 222,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 223,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 224,
+      "milliseconds": 173
+    },
+    {
+      "chapter": 3,
+      "cursor": 225,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 226,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 227,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 228,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 229,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 230,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 231,
+      "milliseconds": 205
+    },
+    {
+      "chapter": 3,
+      "cursor": 232,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 233,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 234,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 235,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 236,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 237,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 238,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 239,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 240,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 241,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 242,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 3,
+      "cursor": 243,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 244,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 245,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 246,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 247,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 248,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 249,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 250,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 251,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 252,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 253,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 254,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 255,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 256,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 257,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 258,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 259,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 260,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 261,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 262,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 263,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 264,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 265,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 3,
+      "cursor": 266,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 267,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 268,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 269,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 270,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 271,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 272,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 273,
+      "milliseconds": 201
+    },
+    {
+      "chapter": 3,
+      "cursor": 274,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 275,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 276,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 3,
+      "cursor": 277,
+      "milliseconds": 203
+    },
+    {
+      "chapter": 3,
+      "cursor": 278,
+      "milliseconds": 174
+    },
+    {
+      "chapter": 3,
+      "cursor": 279,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 3,
+      "cursor": 280,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 3,
+      "cursor": 281,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 282,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 283,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 284,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 285,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 286,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 287,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 288,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 289,
+      "milliseconds": 203
+    },
+    {
+      "chapter": 3,
+      "cursor": 290,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 291,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 292,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 293,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 294,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 295,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 296,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 297,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 298,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 299,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 300,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 301,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 302,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 303,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 304,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 3,
+      "cursor": 305,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 306,
+      "milliseconds": 168
+    },
+    {
+      "chapter": 3,
+      "cursor": 307,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 308,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 309,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 310,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 3,
+      "cursor": 311,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 312,
+      "milliseconds": 166
+    },
+    {
+      "chapter": 3,
+      "cursor": 313,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 314,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 3,
+      "cursor": 315,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 316,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 317,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 318,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 319,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 320,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 321,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 322,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 323,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 324,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 325,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 326,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 327,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 328,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 329,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 3,
+      "cursor": 330,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 331,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 332,
+      "milliseconds": 174
+    },
+    {
+      "chapter": 3,
+      "cursor": 333,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 3,
+      "cursor": 334,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 335,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 336,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 3,
+      "cursor": 337,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 338,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 339,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 340,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 341,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 342,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 343,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 344,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 345,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 3,
+      "cursor": 346,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 347,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 348,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 349,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 350,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 351,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 352,
+      "milliseconds": 203
+    },
+    {
+      "chapter": 3,
+      "cursor": 353,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 354,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 355,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 356,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 357,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 358,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 359,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 3,
+      "cursor": 360,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 361,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 362,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 3,
+      "cursor": 363,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 3,
+      "cursor": 364,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 3,
+      "cursor": 365,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 3,
+      "cursor": 366,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 3,
+      "cursor": 367,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 0,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 4,
+      "cursor": 1,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 2,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 3,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 4,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 5,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 6,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 7,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 8,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 9,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 10,
+      "milliseconds": 168
+    },
+    {
+      "chapter": 4,
+      "cursor": 11,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 12,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 13,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 14,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 4,
+      "cursor": 15,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 16,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 17,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 18,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 19,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 20,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 21,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 22,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 23,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 24,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 25,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 26,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 4,
+      "cursor": 27,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 28,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 29,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 30,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 31,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 32,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 33,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 34,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 35,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 36,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 37,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 38,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 39,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 40,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 41,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 42,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 43,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 44,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 45,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 46,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 47,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 48,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 49,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 50,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 51,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 52,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 53,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 54,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 55,
+      "milliseconds": 156
+    },
+    {
+      "chapter": 4,
+      "cursor": 56,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 57,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 58,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 59,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 60,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 61,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 62,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 63,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 64,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 65,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 66,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 67,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 68,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 69,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 70,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 71,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 72,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 4,
+      "cursor": 73,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 74,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 75,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 76,
+      "milliseconds": 174
+    },
+    {
+      "chapter": 4,
+      "cursor": 77,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 78,
+      "milliseconds": 199
+    },
+    {
+      "chapter": 4,
+      "cursor": 79,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 80,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 81,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 82,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 83,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 84,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 85,
+      "milliseconds": 202
+    },
+    {
+      "chapter": 4,
+      "cursor": 86,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 87,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 88,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 89,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 90,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 91,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 92,
+      "milliseconds": 199
+    },
+    {
+      "chapter": 4,
+      "cursor": 93,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 94,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 95,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 4,
+      "cursor": 96,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 97,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 98,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 99,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 100,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 101,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 102,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 103,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 104,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 105,
+      "milliseconds": 153
+    },
+    {
+      "chapter": 4,
+      "cursor": 106,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 107,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 108,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 4,
+      "cursor": 109,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 110,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 4,
+      "cursor": 111,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 112,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 113,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 114,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 115,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 116,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 117,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 118,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 119,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 120,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 121,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 122,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 123,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 124,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 125,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 126,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 127,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 128,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 129,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 130,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 131,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 132,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 133,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 134,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 135,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 136,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 137,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 138,
+      "milliseconds": 171
+    },
+    {
+      "chapter": 4,
+      "cursor": 139,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 140,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 4,
+      "cursor": 141,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 142,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 4,
+      "cursor": 143,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 144,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 145,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 146,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 147,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 148,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 149,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 150,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 151,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 152,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 153,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 154,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 155,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 156,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 157,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 158,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 159,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 160,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 161,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 162,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 163,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 164,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 165,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 166,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 167,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 168,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 169,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 170,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 171,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 4,
+      "cursor": 172,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 173,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 174,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 175,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 176,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 177,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 178,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 179,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 180,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 181,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 182,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 183,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 4,
+      "cursor": 184,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 185,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 186,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 187,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 188,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 189,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 190,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 191,
+      "milliseconds": 153
+    },
+    {
+      "chapter": 4,
+      "cursor": 192,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 4,
+      "cursor": 193,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 194,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 195,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 196,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 197,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 198,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 199,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 200,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 201,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 202,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 203,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 204,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 205,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 206,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 207,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 208,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 209,
+      "milliseconds": 144
+    },
+    {
+      "chapter": 4,
+      "cursor": 210,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 211,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 4,
+      "cursor": 212,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 213,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 214,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 215,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 216,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 217,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 218,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 219,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 220,
+      "milliseconds": 122
+    },
+    {
+      "chapter": 4,
+      "cursor": 221,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 222,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 223,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 224,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 225,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 226,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 227,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 228,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 229,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 230,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 231,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 232,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 233,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 234,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 235,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 236,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 237,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 238,
+      "milliseconds": 126
+    },
+    {
+      "chapter": 4,
+      "cursor": 239,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 240,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 241,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 242,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 243,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 244,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 245,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 246,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 247,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 248,
+      "milliseconds": 127
+    },
+    {
+      "chapter": 4,
+      "cursor": 249,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 250,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 251,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 252,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 253,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 254,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 255,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 256,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 257,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 258,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 259,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 260,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 261,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 4,
+      "cursor": 262,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 263,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 264,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 265,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 266,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 267,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 268,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 269,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 270,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 271,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 272,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 273,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 274,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 275,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 276,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 277,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 278,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 279,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 280,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 281,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 282,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 283,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 284,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 285,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 286,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 287,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 288,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 289,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 290,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 291,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 292,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 293,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 294,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 295,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 296,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 297,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 298,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 299,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 300,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 301,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 302,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 303,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 304,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 305,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 306,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 4,
+      "cursor": 307,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 308,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 309,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 310,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 311,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 312,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 313,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 314,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 315,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 316,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 317,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 318,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 319,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 320,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 321,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 322,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 323,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 324,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 325,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 326,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 327,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 328,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 329,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 330,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 331,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 332,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 333,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 334,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 335,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 336,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 337,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 338,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 339,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 340,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 341,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 342,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 343,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 344,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 345,
+      "milliseconds": 125
+    },
+    {
+      "chapter": 4,
+      "cursor": 346,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 347,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 348,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 349,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 350,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 351,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 352,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 353,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 354,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 355,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 356,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 357,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 358,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 359,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 360,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 361,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 362,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 363,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 364,
+      "milliseconds": 170
+    },
+    {
+      "chapter": 4,
+      "cursor": 365,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 366,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 367,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 368,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 369,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 370,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 371,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 372,
+      "milliseconds": 199
+    },
+    {
+      "chapter": 4,
+      "cursor": 373,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 374,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 375,
+      "milliseconds": 216
+    },
+    {
+      "chapter": 4,
+      "cursor": 376,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 377,
+      "milliseconds": 135
+    },
+    {
+      "chapter": 4,
+      "cursor": 378,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 379,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 380,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 381,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 382,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 383,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 384,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 385,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 386,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 387,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 388,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 389,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 390,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 391,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 392,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 393,
+      "milliseconds": 135
+    },
+    {
+      "chapter": 4,
+      "cursor": 394,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 395,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 396,
+      "milliseconds": 123
+    },
+    {
+      "chapter": 4,
+      "cursor": 397,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 398,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 399,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 400,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 401,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 402,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 403,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 404,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 405,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 406,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 407,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 408,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 409,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 410,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 411,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 412,
+      "milliseconds": 173
+    },
+    {
+      "chapter": 4,
+      "cursor": 413,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 414,
+      "milliseconds": 126
+    },
+    {
+      "chapter": 4,
+      "cursor": 415,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 4,
+      "cursor": 416,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 417,
+      "milliseconds": 188
+    },
+    {
+      "chapter": 4,
+      "cursor": 418,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 419,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 420,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 421,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 422,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 423,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 424,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 425,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 426,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 427,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 428,
+      "milliseconds": 172
+    },
+    {
+      "chapter": 4,
+      "cursor": 429,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 430,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 431,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 432,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 433,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 434,
+      "milliseconds": 143
+    },
+    {
+      "chapter": 4,
+      "cursor": 435,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 4,
+      "cursor": 436,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 437,
+      "milliseconds": 141
+    },
+    {
+      "chapter": 4,
+      "cursor": 438,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 439,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 440,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 441,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 442,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 443,
+      "milliseconds": 126
+    },
+    {
+      "chapter": 4,
+      "cursor": 444,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 445,
+      "milliseconds": 166
+    },
+    {
+      "chapter": 4,
+      "cursor": 446,
+      "milliseconds": 136
+    },
+    {
+      "chapter": 4,
+      "cursor": 447,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 448,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 449,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 450,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 451,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 452,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 453,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 4,
+      "cursor": 454,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 455,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 456,
+      "milliseconds": 137
+    },
+    {
+      "chapter": 4,
+      "cursor": 457,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 458,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 459,
+      "milliseconds": 168
+    },
+    {
+      "chapter": 4,
+      "cursor": 460,
+      "milliseconds": 142
+    },
+    {
+      "chapter": 4,
+      "cursor": 461,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 462,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 463,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 464,
+      "milliseconds": 197
+    },
+    {
+      "chapter": 4,
+      "cursor": 465,
+      "milliseconds": 139
+    },
+    {
+      "chapter": 4,
+      "cursor": 466,
+      "milliseconds": 138
+    },
+    {
+      "chapter": 4,
+      "cursor": 467,
+      "milliseconds": 169
+    },
+    {
+      "chapter": 4,
+      "cursor": 468,
+      "milliseconds": 140
+    },
+    {
+      "chapter": 4,
+      "cursor": 469,
+      "milliseconds": 140
+    }
+  ]
+}

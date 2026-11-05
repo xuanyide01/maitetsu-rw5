@@ -1,0 +1,7 @@
+<script>
+export default {
+  titleMusicController:null,
+  onCreate() { console.log('MAITETSU_RW5 app created'); },
+  onDestroy() { if(this.titleMusicController)this.titleMusicController.stop();this.titleMusicController=null;console.log('MAITETSU_RW5 app destroyed'); }
+}
+</script>

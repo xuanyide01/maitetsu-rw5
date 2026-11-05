@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "sha256": "adebc32aa4b5fc9961397520b87fec960aa6772d56def6728f948bd9f2f2f468",
+  "bytes": 9954241,
+  "changedEntries": [
+    "META-INF/CERT",
+    "META-INF/build.txt",
+    "app.js",
+    "common/logo.png",
+    "manifest.json",
+    "pages/index/index.js"
+  ],
+  "installedIconByteIdentical": true,
+  "physicalDeviceTested": false
+}

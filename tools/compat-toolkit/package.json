@@ -1,0 +1,5 @@
+{
+  "name": "maitetsu-watch-compatible-compiler",
+  "private": true,
+  "dependencies": {"aiot-toolkit": "1.1.0"}
+}

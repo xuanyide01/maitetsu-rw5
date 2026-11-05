@@ -1,0 +1,2 @@
+export function groupGallery(items){const result=[],groups={};for(const item of items){const id=item.group||item.image;let g=groups[id];if(!g){g={id,image:item.image,thumbnail:item.thumbnail||item.image,label:item.label,variants:[]};groups[id]=g;result.push(g);}g.variants.push(item);}return result;}
+export function stepVariant(index,delta,count){return count>0?((index+delta)%count+count)%count:0;}
