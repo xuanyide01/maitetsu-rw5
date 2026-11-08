@@ -8,10 +8,6 @@
 ![阅读](docs/images/reading.png)
 ![CG 鉴赏](docs/images/gallery.png)
 
-## 红米手表 5 动态表盘
-
-《爱上火车》动态表盘 v1.0.8 已通过红米手表 5 实机测试。**点击表盘上的「爱上火车」Logo，即可进入手表的系统音乐界面。** [表盘说明与 GIF、PNG 预览](watchface/README.md) · [下载表盘 v1.0.8](https://github.com/xuanyide01/maitetsu-rw5/releases/tag/watchface-v1.0.8)
-
 ## 阅读和安装
 
 [下载 v0.1.3 安装包](https://github.com/xuanyide01/maitetsu-rw5/releases/tag/v0.1.3)。
